@@ -1,0 +1,6 @@
+E:\项目\清库机器人\源码\DX_CR_Inclinometer\XE.API.Sensor.RionInclinometer\bin\Debug\XE.API.Sensor.RionInclinometer.dll
+E:\项目\清库机器人\源码\DX_CR_Inclinometer\XE.API.Sensor.RionInclinometer\bin\Debug\XE.API.Sensor.RionInclinometer.pdb
+E:\项目\清库机器人\源码\DX_CR_Inclinometer\XE.API.Sensor.RionInclinometer\obj\Debug\XE.API.Sensor.RionInclinometer.csprojAssemblyReference.cache
+E:\项目\清库机器人\源码\DX_CR_Inclinometer\XE.API.Sensor.RionInclinometer\obj\Debug\XE.API.Sensor.RionInclinometer.csproj.CoreCompileInputs.cache
+E:\项目\清库机器人\源码\DX_CR_Inclinometer\XE.API.Sensor.RionInclinometer\obj\Debug\XE.API.Sensor.RionInclinometer.dll
+E:\项目\清库机器人\源码\DX_CR_Inclinometer\XE.API.Sensor.RionInclinometer\obj\Debug\XE.API.Sensor.RionInclinometer.pdb
